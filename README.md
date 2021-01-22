@@ -11,10 +11,8 @@ The repo consists of
 ### Arduino codes for the Arduino UNO used
   a. Phase 1<br />
   b. Phase 2<br />
-  c. Sensor calibration<br />
-        Arduino code to calibrate the fabricated IR sensor array. <br />
-  d. Line follower code<br />
-        Bot follows black line of width >3 cm over white/reflective surface.<br />
+  c. Sensor calibration : Arduino code to calibrate the fabricated IR sensor array. <br />
+  d. Line follower code : Bot follows black line of width >3 cm over white/reflective surface.<br />
     
 ### NodeMCU codes
    Consists of NodeMCU code for communication gateway between controller and Arduino using LAN (WiFi).<br />
