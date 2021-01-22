@@ -33,9 +33,8 @@ The repo consists of
 ### Bot images
         Major images of self-fabricated sensors, chassis, final version of the bot and the webpages designed.
         
-### Line follower video
-        GA-one Line follower video [link] (https://drive.google.com/file/d/158Cxl4eY8iHhrx6XS4xw1NNQDg3edp1A/view?usp=sharing/).
-        This site was built using [GitHub Pages](https://pages.github.com/).
+GA-one Line follower video [link] (https://drive.google.com/file/d/158Cxl4eY8iHhrx6XS4xw1NNQDg3edp1A/view?usp=sharing/).
+This site was built using [GitHub Pages](https://pages.github.com/).
 
 
 #### Mode of communication with bot : WiFi through LAN
