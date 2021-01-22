@@ -9,7 +9,7 @@ Repo for Following'20, annual flagship event, conducted by RMI-NITT
 The repo consists of
 
 ### Arduino codes for the Arduino UNO used
-  a. Phase 1
+  a. Phase 1<br />
   b. Phase 2
   c. Sensor calibration
         Arduino code to calibrate the fabricated IR sensor array. 
