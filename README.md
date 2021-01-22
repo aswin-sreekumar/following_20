@@ -3,8 +3,8 @@ Repo for Following'20, annual flagship event, conducted by RMI-NITT
 
 ## GA-one bot by *TEAM GiriAs*
 
-- *Girish. K @girish-2001 *
-- *Aswin Sreekumar*
+- *Girish. K @girish-2001*
+- *Aswin Sreekumar @aswin-sreekumar*
 
 The repo consists of
 
@@ -31,7 +31,7 @@ The repo consists of
         
 
 ### 5. Line follower video
-        https://drive.google.com/file/d/158Cxl4eY8iHhrx6XS4xw1NNQDg3edp1A/view?usp=sharing
+        [GA-one Line follower](https://drive.google.com/file/d/158Cxl4eY8iHhrx6XS4xw1NNQDg3edp1A/view?usp=sharing)
 
 
-## Mode of communication with bot : WiFi through LAN
+#### Mode of communication with bot : WiFi through LAN
