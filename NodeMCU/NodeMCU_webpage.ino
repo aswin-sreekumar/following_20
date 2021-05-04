@@ -18,7 +18,7 @@
 
 //global variables for overall webpage
 const char* ssid="Asw1n Sreekumar"; // name of LAN created
-const char* pswd="ask12345"; // password of LAN created
+const char* pswd="password_undefined"; // password of LAN created
 
 unsigned long currentTime=millis(); // used for timeout calculation : in case of connection closing and errors in requests
 unsigned long previousTime=0;
