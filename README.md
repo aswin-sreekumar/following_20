@@ -66,14 +66,27 @@ Repo for Following'20, annual flagship event conducted by RMI-NITT. Involves des
 
 ## Gallery
 ### Chassis
+![chassis](https://user-images.githubusercontent.com/63254914/118474260-81409400-b728-11eb-9b8b-2b3224040e17.png)
+
 ### IR sensor array
+![IR_sensors](https://user-images.githubusercontent.com/63254914/118474270-86054800-b728-11eb-811c-19457ad77e05.jpg)
+
 ### Bot images
+![final_bot_1](https://user-images.githubusercontent.com/63254914/118474288-8a316580-b728-11eb-995f-98dda4e6f262.png)
+![final_bot_2](https://user-images.githubusercontent.com/63254914/118474299-8bfb2900-b728-11eb-8fb4-d1b7a2a395e3.png)
+![final_bot_3](https://user-images.githubusercontent.com/63254914/118474309-8e5d8300-b728-11eb-80b6-6e186668bf76.png)
+
 ### Mobile login webpage
+![mobile_webpage](https://user-images.githubusercontent.com/63254914/118474325-91587380-b728-11eb-85b9-80e29162f715.jpg)
+
 ### PC login webpage
+![webpage_login](https://user-images.githubusercontent.com/63254914/118474337-95849100-b728-11eb-9632-abc8c7cd28ec.png)
+
 ### Calibration webpage
+![sensor_calib_webpage](https://user-images.githubusercontent.com/63254914/118474381-a03f2600-b728-11eb-9e18-d2927b9ef1d0.png)
+
 ### Phase 1 webpage
+![webpage_phase1](https://user-images.githubusercontent.com/63254914/118474397-a503da00-b728-11eb-86f1-4101ada16c84.png)
+
 ### Line follower video
 https://user-images.githubusercontent.com/63254914/118473475-a7196900-b727-11eb-8c75-08cda1952363.mp4
-
-
-   GA-one Line follower video [link](https://drive.google.com/file/d/158Cxl4eY8iHhrx6XS4xw1NNQDg3edp1A/view?usp=sharing/).
