@@ -73,4 +73,7 @@ Repo for Following'20, annual flagship event conducted by RMI-NITT. Involves des
 ### Calibration webpage
 ### Phase 1 webpage
 ### Line follower video
+https://user-images.githubusercontent.com/63254914/118473475-a7196900-b727-11eb-8c75-08cda1952363.mp4
+
+
    GA-one Line follower video [link](https://drive.google.com/file/d/158Cxl4eY8iHhrx6XS4xw1NNQDg3edp1A/view?usp=sharing/).
