@@ -35,3 +35,5 @@ The repo consists of
    GA-one Line follower video [link](https://drive.google.com/file/d/158Cxl4eY8iHhrx6XS4xw1NNQDg3edp1A/view?usp=sharing/).<br />
    
 #### Mode of communication with bot : WiFi through LAN
+
+## Gallery
