@@ -39,7 +39,6 @@ Repo for Following'20, annual flagship event conducted by RMI-NITT. Involves des
 ### Image Processing
    - Python scripts for image processing according to problem statement and communicating with LAN.
    - Uses contouring and approxPolyDP() to detect shapes and open corresponding webpage URL, thereby indirectly communicating the deciphered coordinates to the UNO through NodeMCU. 
-   - Contains final script and a shape calibration script.
    
 #### Mode of communication with bot : WiFi through LAN
 
