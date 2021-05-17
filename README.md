@@ -65,5 +65,6 @@ Repo for Following'20, annual flagship event conducted by RMI-NITT. Involves des
 5. Bot images
 
 ## Gallery
+![GitHub Logo](/Bot" "Images/chassis.png)
 ### Line follower video
    GA-one Line follower video [link](https://drive.google.com/file/d/158Cxl4eY8iHhrx6XS4xw1NNQDg3edp1A/view?usp=sharing/).
