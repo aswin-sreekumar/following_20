@@ -74,10 +74,10 @@ Repo for Following'20, annual flagship event conducted by RMI-NITT. Involves des
 ### Bot images
 ![final_bot_1](https://user-images.githubusercontent.com/63254914/118474288-8a316580-b728-11eb-995f-98dda4e6f262.png)
 ![final_bot_2](https://user-images.githubusercontent.com/63254914/118474299-8bfb2900-b728-11eb-8fb4-d1b7a2a395e3.png)
-![final_bot_3](https://user-images.githubusercontent.com/63254914/118474309-8e5d8300-b728-11eb-80b6-6e186668bf76.png)
 
 ### Mobile login webpage
 ![mobile_webpage](https://user-images.githubusercontent.com/63254914/118474325-91587380-b728-11eb-85b9-80e29162f715.jpg)
+
 ![webpage_login](https://user-images.githubusercontent.com/63254914/118474337-95849100-b728-11eb-9632-abc8c7cd28ec.png)
 
 ### Calibration webpage
