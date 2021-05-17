@@ -3,8 +3,8 @@ Repo for Following'20, annual flagship event, conducted by RMI-NITT
 
 ## GA-one bot by *TEAM GiriAs*
 
-- *Girish. K @girish-2001*
-- *Aswin Sreekumar @aswin-sreekumar*
+- [*Girish. K*](https://github.com/girish-2001)
+- [*Aswin Sreekumar*](https://github.com/aswin-sreekumar)
 
 The repo consists of
 
